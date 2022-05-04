@@ -1,0 +1,42 @@
+.docForm{
+	width: 100%;
+	height: 80vh;
+	display: flex;
+	/* justify-content: center; */
+	/* align-items: center; */
+	padding:0 90px;
+}
+.img{
+	width: 50%;
+	height: 70vh;
+}
+.img img{
+	width: 100%;
+	height: 100%;
+	padding: 0 10px;
+}
+form{
+	margin-top: 60px;
+	margin-left: 30px;
+	width: 40%;
+	height: 56vh;
+	background-color:rgba(121, 166, 244,0.9);
+	border-radius: 20px;
+}
+.form-group{
+	margin: 10px 30px ;
+}
+label{
+	margin: 10px 0;
+}
+.nextBtn{
+	margin-top: 10px;
+	margin-left: 370px;
+	padding: 10px;
+	width: 90px;
+	letter-spacing: 1px;
+}
+.form-group label{
+	font-weight: 600;
+	font-size: 1.1rem;
+}
